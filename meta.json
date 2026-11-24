@@ -1,0 +1,19 @@
+{
+  "flows": [
+    { "channel": "Meta", "headline": "Accurate notes from your lectures, in seconds", "paywall_opens_on": "Annual, under their Cell Biology notes and 8 flashcards", "note": "asks “Where’s your lecture?” and names the paywall after it: “Notes from every lecture, in seconds”" },
+    { "channel": "Meta", "headline": "An AI tutor that knows your material, 24/7", "paywall_opens_on": "Annual, after a Sparky answer on the help they picked", "note": "the headline names their answer: “Sparky helps with your homework, 24/7”" },
+    { "channel": "Meta", "headline": "The best way to study as a med student", "paywall_opens_on": "Annual, after the “master gland” Knowledge Check", "note": "proof first: 92%, 4.8 stars and Nana Agyakoma’s review above the plans" }
+  ],
+  "prices": { "yearly": "$96.00", "monthly": "$19.99", "trial": "none", "source": "US App Store listing, In-App Purchases (“StudyFetch Premium Yearly”, “StudyFetch Premium Monthly”)" },
+  "today": { "text": "every app install answers “I am a…”, its level and where it needs support, meets a sample “Study Plan Preview”, then the same “92% of StudyFetch subscribers improved their grades” paywall with two buttons and Monthly at $19.00", "source": "audit_frames" },
+  "asks": ["Where’s your lecture?", "Where could you use the most support studying right now?", "When is your next exam?"],
+  "paywall": { "headline": "Notes from every lecture, in seconds", "uses_answers": true },
+  "rebuild": "each Meta ad opens its own first launch: one question, a first result before the price, a paywall that names the answer, one button at App Store prices",
+  "ideas": [
+    { "n": 1, "title": "A real first result before the price", "screen": "First win", "outcome": "CR +10–20%" },
+    { "n": 2, "title": "Name their answer on the paywall", "screen": "Paywall", "outcome": "CR +15–20%" },
+    { "n": 3, "title": "Ask for the camera when they use it", "screen": "One question", "outcome": "CR +10–15%" },
+    { "n": 4, "title": "One button, one price: the App Store’s", "screen": "Paywall", "outcome": "CR +3–8%" },
+    { "n": 5, "title": "Proof that fits who they are", "screen": "Paywall", "outcome": "CR +5–10%" }
+  ]
+}
